@@ -1,7 +1,7 @@
 # ETH Address Generator
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=ETH+Address+Generator" alt="ETH Address Generator Preview">
+
   
   [![PHP Version](https://img.shields.io/badge/PHP-8.0+-blue.svg)](https://php.net)
   [![CodeIgniter](https://img.shields.io/badge/CodeIgniter-4.0+-orange.svg)](https://codeigniter.com)
@@ -128,20 +128,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For any queries or support, please reach out to [your-email@example.com]
+For any queries or support, please reach out to abdullahiabbaahmad39@gmail.com
 
-## 🔮 Future Enhancements
 
-- [ ] Address validation
-- [ ] Balance checking
-- [ ] Multiple export formats
-- [ ] HD wallet support
-- [ ] Multi-chain support
-- [ ] API integration
-- [ ] QR code generation
-- [ ] Address labeling system
-- [ ] Batch operations
-- [ ] Analytics dashboard
 
 ## ⚠️ Disclaimer
 
